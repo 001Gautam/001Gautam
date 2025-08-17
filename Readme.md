@@ -15,7 +15,7 @@
 
 ## 🚀 Projects  
 
-- **[CAMPUS-EXCHANGE](https://github.com/GautamTrivedi01/CAMPUS-EXCHANGE)**  
+- **[CAMPUS-EXCHANGE]([https://github.com/GautamTrivedi01/CAMPUS-EXCHANGE](https://github.com/001Gautam/CAMPUS-EXCHANGE))**  
   A platform for college students to exchange items easily within campus.  
 
 - **[Brain-Cancer-Detection-Using-MRI-Images](https://github.com/GautamTrivedi01/Brain-Cancer-Detection-Usin-MRI-Images)**  
